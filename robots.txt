@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bakersfield.appdevelopers.vip/sitemap.xml
